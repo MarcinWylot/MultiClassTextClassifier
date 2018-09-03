@@ -3,7 +3,7 @@
 
 Machine Learning Industry Classifier
 
-#Dataset description: 
+# Dataset description: 
 html - source of the company website (if it was possible to crawl it);
 description - short description of the company from LinkedIn;
 industry - industry the company belongs to.
